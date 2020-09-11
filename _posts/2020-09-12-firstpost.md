@@ -1,10 +1,4 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+title: "Network Bites"
+date: 2020-09-12
 ---
-
-# Welcome
-
-**Hello world**, this is my first Jekyll blog post.
-
-I hope you like it!
